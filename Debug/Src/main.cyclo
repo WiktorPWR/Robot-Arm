@@ -1,0 +1,8 @@
+../Src/main.c:74:6:pwm_set	15
+../Src/main.c:154:6:direction_pin_set	3
+../Src/main.c:164:6:left_rotation	3
+../Src/main.c:172:6:right_rotation	3
+../Src/main.c:180:6:speed_profile_init	1
+../Src/main.c:188:6:stepper_set_angle	2
+../Src/main.c:223:6:speed_set	7
+../Src/main.c:262:5:main	1
